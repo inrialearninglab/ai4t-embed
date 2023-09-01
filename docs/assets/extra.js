@@ -11,6 +11,15 @@ window.MathJax = {
   }
 };
 
+function iframeResize() {
+  var heightSidebar = document.querySelector('.md-sidebar__scrollwrap').offsetHeight;
+  var heightContent = document.querySelector('.md-content').offsetHeight;
+  var height = Math.max(heightSidebar, heightContent) + 100 + 50 + 116;
+  parent.postMessage("resize::"+height,"*");
+}
+iframeResize();
+setInterval(iframeResize, 1000);
+
 var _paq = window._paq = window._paq || [];
 /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 _paq.push(['trackPageView']);

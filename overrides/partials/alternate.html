@@ -1,0 +1,19 @@
+<div class="md-header__option">
+  <div class="md-select" style="width:12.1rem;">
+    {% set icon = config.theme.icon.alternate or "material/translate" %}
+    <button class="lang-btn" aria-label="{{ lang.t('select.language') }}">
+      {{ lang.t('language') }}
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        {% for alt in config.extra.alternate %}
+        <li class="md-select__item">
+          <a href="{{ alt.link | url }}" hreflang="{{ alt.lang }}" class="md-select__link">
+            {{ alt.name }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

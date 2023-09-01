@@ -1,4 +1,4 @@
-site_name: Artificial Intelligence for and by Teachers
+site_name: Teacher Training
 use_directory_urls: false
 nav:
   - ...
@@ -11,7 +11,7 @@ extra_javascript:
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/AI4T_simbo_bela.png
+  logo: ""
   favicon: assets/AI4T_simbo_barvna.png
   palette:
     scheme: preference
@@ -19,8 +19,6 @@ theme:
     accent: purple
   font:
     text: Open-sans
-  features:
-    - navigation.tabs
 markdown_extensions:
   - admonition
   - abbr
@@ -254,7 +252,6 @@ extra:
       de: "Alle sehen"
       sl: "Oglejte si vse"
 plugins:
-  - search
   - awesome-pages
   - macros
   - exclude:

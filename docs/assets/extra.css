@@ -134,6 +134,37 @@ h1:before, h2:before, .h3:before, .h4:before, .h5:before {
     margin-bottom:0;
 }
 
+.lang-btn {
+    position: relative;
+    border: 1px solid #111;
+    border-radius: 2px;
+    margin: 0.6rem;
+    padding: 0.1rem 0.4rem;
+    width: calc(100% - 1.2rem);
+    font-size: .8rem;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.lang-btn::after {
+    content: "";
+    position: absolute;
+    top:0;
+    right:0;
+    display: block;
+    width: 23px;
+    height: 100%;
+    -webkit-mask-image: var(--md-nav-icon--next);
+    mask-image: var(--md-nav-icon--next);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    vertical-align: -.1rem;
+    background-color: currentcolor;
+    transform: rotate(90deg);
+}
+
 
 @media (max-width: 960px) {
     .md-card{
