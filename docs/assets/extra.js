@@ -13,7 +13,7 @@ window.MathJax = {
 
 function iframeResize() {
   var heightSidebar = document.querySelector('.md-sidebar__scrollwrap').offsetHeight;
-  var heightContent = document.querySelector('.md-content').offsetHeight;
+  var heightContent = document.querySelector('.md-content__inner').offsetHeight;
   var height = Math.max(heightSidebar, heightContent) + 100 + 50 + 116;
   parent.postMessage("resize::"+height,"*");
 }
