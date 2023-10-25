@@ -1,0 +1,16 @@
+<div class="md-grid custom-actions-buttons">
+    {% if config.extra.alternate %}
+    {% include "partials/alternate.html" %}
+    {% endif %}
+    <div class="md-typeset">
+        <input id="inputlink" hidden readonly/>
+        <label id="copylink" for="inputlink">
+            <button class="md-button md-button--primary">
+                Copy link
+                <span class="twemoji">
+                  {% include ".icons/fontawesome/solid/link.svg" %}
+                </span>
+            </button>
+        </label>
+    </div>
+</div>

@@ -134,6 +134,19 @@ h1:before, h2:before, .h3:before, .h4:before, .h5:before {
     margin-bottom:0;
 }
 
+.custom-actions-buttons {
+    display: flex;
+    gap: 5px;
+    width:100%;
+    padding: .6rem;
+    margin-bottom: -1.5rem;
+    z-index:1;
+}
+.custom-actions-buttons .lang-btn {
+    text-transform: uppercase;
+    min-width:130px;
+}
+
 
 @media (max-width: 960px) {
     .md-card{
