@@ -8,14 +8,13 @@ Umetna inteligenca je tako zanimiva tema, da so ji posvečeni številni množič
 ??? info "Informacije o Moocu"
     - Predloženo : 16. december 2022
     - Za vsak Moocs in vire so zbrane naslednje infos :
-
-			- Po: avtor
-	 		- Informacije o Moocu: nekaj besed o vsebini
-	 		- Jezik: vsi jeziki, ki so na voljo
-	 		- Registracija: brezplačna ali pod določenimi pogoji
-	 		- Potrdilo: možnost pridobitve potrdila/preverjanja v zvezi z usposabljanjem
-	 		- Dostopnost: ali je vir še vedno na voljo ) dec. 2022
-	 		- Dostop do Mooc: povezava do virov
+        - Po: avtor
+        - Informacije o Moocu: nekaj besed o vsebini
+        - Jezik: vsi jeziki, ki so na voljo
+        - Registracija: brezplačna ali pod določenimi pogoji
+        - Potrdilo: možnost pridobitve potrdila/preverjanja v zvezi z usposabljanjem
+        - Dostopnost: ali je vir še vedno na voljo ) dec. 2022
+        - Dostop do Mooc: povezava do virov
 
 
 Na tej strani je najprej na voljo **izbor Mooc**, ki je razdeljen na dva dela:

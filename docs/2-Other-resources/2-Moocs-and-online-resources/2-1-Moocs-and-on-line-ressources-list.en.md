@@ -8,14 +8,13 @@ The subject of artificial intelligence is so fascinating that many Massive Open 
 ??? info " Mooc's information "
     - Submitted : December 16th 2022
     - For each Moocs and ressources, the following infos are gathered :
-
-			- By: author
-	 		- Info about the Mooc: a few words about contents
-	 		- Language: all languages available
-	 		- Registration: free or with conditions
-	 		- Certification: possibility to have a attestation / verification regarding the training
-	 		- Accessibility: is the resource still available ) dec. 2022
-	 		- Access to the Mooc: link to the resources
+        - By: author
+        - Info about the Mooc: a few words about contents
+        - Language: all languages available
+        - Registration: free or with conditions
+        - Certification: possibility to have a attestation / verification regarding the training
+        - Accessibility: is the resource still available ) dec. 2022
+        - Access to the Mooc: link to the resources
 
 
 In this page, there is first a **selection of Moocs** organised in two parts :

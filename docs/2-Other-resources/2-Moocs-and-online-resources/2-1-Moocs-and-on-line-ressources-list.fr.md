@@ -8,14 +8,13 @@ Le sujet de l'intelligence artificielle est si fascinant que de nombreux cours e
 ??? info " Informations sur les Moocs "
     - Soumis : 16 décembre 2022
     - Pour chaque Moocs et ressources, les infos suivantes sont rassemblées :
-
-			- Par : auteur
-	 		- Info sur le Mooc : quelques mots sur son contenu
-	 		- Langue : toutes les langues disponibles
-	 		- Inscription : gratuite ou soumise à conditions
-	 		- Certification : possibilité d'avoir une attestation / vérification concernant la formation.
-	 		- Accessibilité : la ressource est-elle toujours disponible ? déc. 2022
-	 		- Accès au Mooc : lien vers les ressources.
+        - Par : auteur
+        - Info sur le Mooc : quelques mots sur son contenu
+        - Langue : toutes les langues disponibles
+        - Inscription : gratuite ou soumise à conditions
+        - Certification : possibilité d'avoir une attestation / vérification concernant la formation.
+        - Accessibilité : la ressource est-elle toujours disponible ? déc. 2022
+        - Accès au Mooc : lien vers les ressources.
 
 
 Dans cette page, il y a d'abord une **sélection de Moocs** organisée en deux parties :

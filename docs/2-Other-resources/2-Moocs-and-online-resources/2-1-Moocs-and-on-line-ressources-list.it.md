@@ -8,14 +8,13 @@ Il tema dell'intelligenza artificiale è così affascinante che molti corsi onli
 ??? info " Informazioni sui Mooc "
     - Inviato : 16 dicembre 2022
     - Per ogni Mooc e risorse, sono raccolte le seguenti informazioni:
-
-			- Da: autore
-	 		- Informazioni sul Mooc: qualche parola sui contenuti
-	 		- Lingua: tutte le lingue disponibili
-	 		- Registrazione: gratuita o a condizioni
-	 		- Certificazione: possibilità di avere un attestato/verifica della formazione
-	 		- Accessibilità: la risorsa è ancora disponibile) dicembre 2022
-	 		- Accesso al Mooc: link alle risorse
+        - Da: autore
+        - Informazioni sul Mooc: qualche parola sui contenuti
+        - Lingua: tutte le lingue disponibili
+        - Registrazione: gratuita o a condizioni
+        - Certificazione: possibilità di avere un attestato/verifica della formazione
+        - Accessibilità: la risorsa è ancora disponibile) dicembre 2022
+        - Accesso al Mooc: link alle risorse
 
 
 In questa pagina è presente una **selezione di Mooc** organizzata in due parti:

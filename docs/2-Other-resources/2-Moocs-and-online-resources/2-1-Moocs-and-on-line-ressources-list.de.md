@@ -8,14 +8,13 @@ Das Thema der künstlichen Intelligenz ist so faszinierend, dass sich viele Mass
 ??? info " Moocs Informationen "
     - Eingereicht am: 16. Dezember 2022
     - Zu den einzelnen Moocs und Ressourcen werden die folgenden Infos gesammelt:
-
-			- Von: Autor
-	 		- Info über das Mooc: ein paar Worte zum Inhalt
-	 		- Sprache: alle Sprachen verfügbar
-	 		- Anmeldung: kostenlos oder mit Bedingungen
-	 		- Zertifizierung: Möglichkeit einer Bescheinigung / Überprüfung der Ausbildung
-	 		- Zugänglichkeit: ist die Ressource noch verfügbar ) Dez. 2022
-	 		- Zugang zur Mooc: Link zu den Ressourcen
+        - Von: Autor
+        - Info über das Mooc: ein paar Worte zum Inhalt
+        - Sprache: alle Sprachen verfügbar
+        - Anmeldung: kostenlos oder mit Bedingungen
+        - Zertifizierung: Möglichkeit einer Bescheinigung / Überprüfung der Ausbildung
+        - Zugänglichkeit: ist die Ressource noch verfügbar ) Dez. 2022
+        - Zugang zur Mooc: Link zu den Ressourcen
 
 
 Auf dieser Seite finden Sie zunächst eine **Auswahl an Moocs**, die in zwei Teile gegliedert ist:
